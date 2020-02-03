@@ -1,3 +1,7 @@
+#NatCorder
+NatCorder must be installed for this project to work. Natcorder is a paid unity asset and could not be added to git.
+NatCorder can be found here: https://assetstore.unity.com/packages/tools/integration/natcorder-video-recording-api-102645
+
 # NatCorder API
 NatCorder is a lightweight, easy-to-use, native video recording API for iOS, Android, macOS, and Windows. NatCorder comes with a rich featureset including:
 + Record any texture, anything that can be rendered into a texture, or any pixel data.
