@@ -156,3 +156,8 @@ fabric.properties
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
+
+# Ignore Paid NatCorder Files
+/Assets/NatCorder/*
+# Leave NatCorderReadme to show existence
+!/Assets/NatCorder/README.*
